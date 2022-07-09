@@ -1,0 +1,99 @@
+body {
+    background: #ccc;
+    font-family: 'Edu SA Beginner', cursive;
+    max-width: none;
+}
+
+.bear {
+    background-color: coral;
+    border-bottom: 30px;
+    border-top: 30px;
+    border-left: 30px;
+    border-color: aqua;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 5px 5px 15px;
+    border-color: aqua;
+}
+
+img {
+    width: auto;
+    height: auto;
+}
+
+.contacts {
+    text-align: center;
+    color: salmon;
+}
+
+.aa {
+    text-decoration: none;
+    color: seagreen;
+
+}
+
+.aa:hover {
+    text-decoration: underline;
+}
+
+.aa:active {
+    color: darkolivegreen;
+}
+
+.aa:visited {
+    color: firebrick;
+}
+
+.p1 {
+    color: brown;
+    text-decoration: overline;
+    text-decoration-color: blueviolet;
+    font-size: 18px;
+    text-align: center;
+}
+
+.hhr {
+    color: darkorange;
+}
+
+.omg {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 5px 5px 15px;
+}
+
+.ggg {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 5px 5px 15px;
+}
+
+.ddd {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 5px 5px 15px;
+}
+
+.hh1 {
+    color: seagreen;
+    text-decoration: underline;
+    text-decoration-color: green;
+    text-align: center;
+}
+
+.list {
+    font-size: 20px;
+}
+
+.pp2 {
+    font-size: 25px;
+    color: chocolate;
+}
